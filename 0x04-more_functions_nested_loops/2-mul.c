@@ -1,5 +1,4 @@
-#include "holberton.h"
-
+#include <stdio.h>
 /**
  * mul - multiply 2 integers
  * @a: int type number

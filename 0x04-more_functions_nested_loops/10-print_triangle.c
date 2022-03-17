@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include <stdio.h>
 
 /**
  * print_triangle - print a triangle aligned right, using '#'

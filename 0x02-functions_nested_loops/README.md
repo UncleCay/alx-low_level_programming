@@ -1,1 +1,1 @@
-my new project on more functions more nested loops
+my new project on functions nested loops
